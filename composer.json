@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "php": "^7.1||^8.0||8.1||8.2||8.3",
-        "langleyfoxall/password_exposed": "dev-laravel-11-upgrade",
+        "divineomega/password_exposed": "dev-laravel-11-upgrade",
         "illuminate/contracts": "^5.1||^6.0||^7.0||^8.0||^9.0||^10.0||^11.0"
     },
     "license": "LGPL-3.0-only",
