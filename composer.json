@@ -41,7 +41,7 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/HMA-Digital/password_exposed.git"
+            "url": "https://github.com/HMA-Digital/password_exposed"
         }
     ],
     "config": {
